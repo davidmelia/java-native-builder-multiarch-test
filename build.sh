@@ -1,0 +1,1 @@
+./mvnw -Pdashaun spring-boot:build-image
